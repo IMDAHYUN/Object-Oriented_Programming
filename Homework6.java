@@ -1,6 +1,6 @@
 class Course {
-    String code;
-    String name;
+    protected String code;
+    protected String name;
     public Course(String code, String name){
         this.code = code;
         this.name = name;
